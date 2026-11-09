@@ -16,6 +16,7 @@ import androidx.compose.foundation.layout.padding
 import com.example.myapplication.ui.theme.MyApplicationTheme
 
 class DetailsActivity : ComponentActivity() {
+    
 
     companion object {
         private const val TAG = "DetailsActivity"
