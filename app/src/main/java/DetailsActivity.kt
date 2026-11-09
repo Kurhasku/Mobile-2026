@@ -28,7 +28,7 @@ class DetailsActivity : ComponentActivity() {
         Log.d(TAG, "onCreate called")
 
         val receivedData = intent.getStringExtra("EXTRA_MESSAGE")
-        Log.d(TAG, "Received data: $receivedData")
+        Log.d(TAG, "Received dataa: $receivedData")
 
         setContent {
             MyApplicationTheme {
